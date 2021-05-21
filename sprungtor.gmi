@@ -1,0 +1,27 @@
+# 💫 Sprungtor Kapselring
+
+=> gemini://gnubox.org stereos capsule
+=> gemini://raumdock.de turricans Gemini-Kapsel auf raumdock.de
+=> gemini://seydaneen.nahtgards.de Seyda Neen
+
+```
+               `..NMMN..`               
+         `+m:.mMM:.dd.:MMm.:m+`         
+        :mMMh +-`      `-+ hMMm:        
+        /:-/.              ./-:/        
+       hMm.                  .mMh       
+    `h/.+`                    `+./h`    
+    /MMN-                      -NMM/    
+    +o/:                        :/o+    
+     .NM.                      .MN.     
+      hh/                      /hh      
+     :oss/                    /sss:     
+      sMMo``                ``oMMy      
+       +:`mNs              sNm`:+       
+          .o-:y yNNNNNNy y:-o.          
+            +m`sMMMMMMMMs`m+            
+           oN.+MMMMMMMMMM+.No           
+          sN-/MMMMMMMMMMMM/-Ns          
+         hM:-MMMMMMMMMMMMMM-:Mh   
+    #sprungtor-kapselring:matrix.org
+```
