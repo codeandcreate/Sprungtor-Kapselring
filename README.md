@@ -55,7 +55,7 @@ Eingebunden werden auf der eigenen Kapsel kann die Linkliste (sprungtor.gmi) ent
 
 Beispielbefehl:
 ```
-sync.sh https://raw.githubusercontent.com/codeandcreate/Sprungtor-Kaspselring/main/sprungtor.gmi /var/gemini/default/linkliste.gmi 3
+sync.sh https://raw.githubusercontent.com/codeandcreate/Sprungtor-Kapselring/main/sprungtor.gmi /var/gemini/default/linkliste.gmi 3
 ```
 
 Die 3 steht hierbei für die Zeile in der die eigene Kapsel verlinkt ist; diese wird vom Skript automatisch entfernt.
