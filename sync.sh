@@ -12,7 +12,7 @@ if (( $# != 3 )) && (( $# != 4 )); then
 	echo "4.) Alternate headline (replaces the first line of the gmi / optional)"
 	echo ""
 	echo "Example:"
-	echo "sync.sh https://raw.githubusercontent.com/someuser/somerepo/somefile.gmi /var/gemini/default/linklist.gmi 5 \"some links for you\""
+	echo "sync.sh https://raw.githubusercontent.com/someuser/somerepo/main/somefile.gmi /var/gemini/default/linklist.gmi 5 \"some links for you\""
 	exit
 fi
 
