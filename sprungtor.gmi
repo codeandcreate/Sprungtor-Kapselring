@@ -3,6 +3,7 @@
 => gemini://gnubox.org stereos capsule
 => gemini://raumdock.de turricans Gemini-Kapsel auf raumdock.de
 => gemini://seydaneen.nahtgards.de Seyda Neen
+=> gemini://koyu.space/koyu/de/ koyu's persönliche Kapsel
 
 ```
                `..NMMN..`               
