@@ -73,4 +73,4 @@ mv tmp_cutted.gmi $targetFileName 2> /dev/null
 #### cleanup
 rm tmp.gmi 2> /dev/null
 cd ..
-rmdir sgw-sync 2> /dev/null
+rm -R sgw-sync 2> /dev/null
