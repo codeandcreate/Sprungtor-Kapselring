@@ -3,6 +3,10 @@
 => gemini://gnubox.org stereos capsule
 => gemini://raumdock.de turricans Gemini-Kapsel auf raumdock.de
 => gemini://seydaneen.nahtgards.de Seyda Neen
+=> gemini://was-ist-gemini.de Was ist Gemini?
+=> gemini://floss.datenbrei.de Datenbrei – Artikel zu Open Source Software
+=> gemini://gedanken.datenbrei.de Datenbrei – Gedanken zu verschiedenen Themen
+=> gemini://gedichte.datenbrei.de Datenbrei – Gedichte
 
 ```
                `..NMMN..`               
