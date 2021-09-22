@@ -1,0 +1,11 @@
+# file /etc/systemd/system/kapselring.timer
+
+[Unit]
+Description=Renewal of Sprungtor-Kapselring every day
+
+[Timer]
+OnCalendar=daily
+Unit=kapselring.service
+
+[Install]
+WantedBy=multi-user.target
