@@ -1,0 +1,13 @@
+# file /etc/systemd/system/kapselring.service
+
+[Unit]
+Description=Update of the Sprungtor-Kapselring Gemini Page
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/sync.sh https://raw.githubusercontent.com/codeandcreate/Sprungtor-Kapselring/main/sprungtor.gmi /path/to/your/gemini/files/sprungtor.gmi 6
+# With Type=oneshot you can provide multiple ExecStarts here, they are executed serially, e.g. if you have multiple capsules
+# The number at the end must be adapted to the line in which the link to your capsule is.
+ 
+[Install]
+WantedBy=multi-user.target
