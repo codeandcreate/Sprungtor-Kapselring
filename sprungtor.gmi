@@ -5,6 +5,7 @@
 => gemini://seydaneen.nahtgards.de Seyda Neen
 => gemini://was-ist-gemini.de "Was ist Gemini?" von Martin Döring 
 => gemini://datenbrei.de datenbrei.de von Martin Döring
+=> gemini://mj.nahtgards.de Johns Gemini Kapsel
 
 ```
                `..NMMN..`               
